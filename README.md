@@ -13,3 +13,7 @@ https://bugs.openjdk.java.net/browse/JDK-8193393
 
 https://docs.oracle.com/javacomponents/testing-tools.htm
 
+## JFR (Marcus Hirt)
+
+http://hirt.se/blog/
+
