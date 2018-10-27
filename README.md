@@ -8,6 +8,10 @@ http://openjdk.java.net/jeps/328
 
 https://bugs.openjdk.java.net/browse/JDK-8193393
 
+https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/tooldescr002.html
+
+https://www.youtube.com/watch?time_continue=136&v=qytuEgVmhsI
+
 
 ## JavaTest Harness 4.6
 
