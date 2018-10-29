@@ -25,3 +25,7 @@ https://docs.oracle.com/javacomponents/testing-tools.htm
 
 http://hirt.se/blog/
 
+## JMC
+
+https://dzone.com/articles/using-java-flight-recorder-with-openjdk-11-1
+
