@@ -29,6 +29,8 @@ http://hirt.se/blog/
 
 https://dzone.com/articles/using-java-flight-recorder-with-openjdk-11-1
 
+https://blog.takipi.com/oracle-java-mission-control-the-ultimate-guide/
+
 ### Forum
 
 https://community.oracle.com/community/groundbreakers/java/java_hotspot_virtual_machine/java_mission_control
